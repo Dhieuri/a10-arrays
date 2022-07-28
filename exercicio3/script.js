@@ -16,8 +16,8 @@ console.log("Primeiro item de Num =", num[1]);
 console.log('Segundo item de Objetos =', objeto[2]);
 
 //exercicio 2, parte 3
-console.log(num.includes(96))
-console.log(misto.includes("café"))
+console.log('Contem 96 ?', num.includes(96))
+console.log('Contem café?', misto.includes("café"))
 
 //exercicio 3, parte 1
 const numCopia = num.slice()
