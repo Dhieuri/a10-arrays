@@ -40,6 +40,6 @@ console.log('objeto Original', objeto)
 console.log('obejto copia', objetoCopia)
 
 //exercicio 3, parte 4
-mistoCopia.splice(2,1)
+mistoCopia.splice(1,1)
 console.log('misto Original', misto)
 console.log('misto copia', mistoCopia)
